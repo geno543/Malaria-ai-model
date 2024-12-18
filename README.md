@@ -24,7 +24,7 @@ A FastAPI-based application that uses deep learning models (YOLO and AAM) to det
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/geno543/Malaria-ai-model]
 cd malaria-detection
 ```
 
@@ -78,6 +78,3 @@ uvicorn malaria_3:app --reload
 }
 ```
 
-## License
-
-[Your chosen license]
