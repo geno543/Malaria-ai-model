@@ -1,0 +1,9 @@
+#data
+train: C:/Users/acer/Downloads/SmartMalariaNET/data/step_1/VOC/images/train
+val: C:/Users/acer/Downloads/SmartMalariaNET/data/step_1/VOC/images/val
+test: C:/Users/acer/Downloads/SmartMalariaNET/data/step_1/VOC/images/test
+
+#number of classes
+
+nc: 1  
+names: ['cell']

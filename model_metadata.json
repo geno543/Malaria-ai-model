@@ -1,0 +1,12 @@
+{
+  "yolo_model": "yolo_model.tflite",
+  "aam_model": "aam_model.tflite",
+  "diagnosis_model": "diagnosis_model.tflite",
+  "input_sizes": {
+    "yolo": 640,
+    "aam": 64,
+    "diagnosis": 240
+  },
+  "confidence_threshold": 0.5,
+  "version": "1.0"
+}
